@@ -53,6 +53,8 @@ VK.Bot (https://github.com/aiogram/aiogram) — Ресурс для создан
 
 123456789:ABCDefGhIJKLmNoPQRsTUVwxyZ
 
+![Uploading скрин бота.png…]()
+
 **Шаг 2: Создание проекта**
 
 1\. Откройте Visual Studio
@@ -193,7 +195,7 @@ var botClient = new VkBotClient("YOUR\_TOKEN\_HERE");
 
 **5.2. Диаграмма последовательности обработки сообщений**
 
-
+![Uploading CheckEmail.svg.png…]()
 
 **5.3. Схема логики обработки команд**
 

@@ -53,7 +53,7 @@ VK.Bot (https://github.com/aiogram/aiogram) — Ресурс для создан
 
 123456789:ABCDefGhIJKLmNoPQRsTUVwxyZ
 
-![Uploading скрин бота.png…]()
+<img width="677" height="458" alt="скрин бота" src="https://github.com/user-attachments/assets/32bc1e2b-a156-4c3a-b337-a5dce8fb1571" />
 
 **Шаг 2: Создание проекта**
 
@@ -191,11 +191,13 @@ var botClient = new VkBotClient("YOUR\_TOKEN\_HERE");
 
 **5.1. UML-диаграмма компонентов**
 
+<img width="960" height="600" alt="ffdr83yesqcv78hua6zxt45tbye" src="https://github.com/user-attachments/assets/8bdfb64a-6684-45ec-8a30-bc3cf9a9673b" />
 
 
 **5.2. Диаграмма последовательности обработки сообщений**
 
-![Uploading CheckEmail.svg.png…]()
+<img width="960" height="953" alt="CheckEmail svg" src="https://github.com/user-attachments/assets/c542062a-d925-41e9-8681-e8cdfe0e5b71" />
+
 
 **5.3. Схема логики обработки команд**
 
